@@ -1,4 +1,4 @@
-# geocaching
+# Geocaching
 
 
 Welcome to the Android Geocaching software project with Linux Magazine France.
