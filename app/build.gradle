@@ -45,9 +45,8 @@ android {
     signingConfigs {
         release {
             keyAlias 'keyRelease'
-            storeFile file('/home/fcamps/.android/releasekey.jks')
-            keyPassword 'adoudou,31'
-            storePassword 'adoudou,31'
+            storeFile file('/home/myHomeDirectory/.android/releasekey.jks')
+            
         }
     }
 
